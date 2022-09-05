@@ -1,0 +1,27 @@
+[
+  {
+    "name" : "Alabi Atirola",
+    "age" : "16",
+    "height" : "180",
+    "gender" : "male",
+    "hair_color" : "black"
+  },{
+  "name" : "Big Shaq",
+  "age" : "15",
+  "height" : "130",
+  "gender" : "female",
+  "hair_color" : "white"
+},{
+  "name" : "Ben Avalanche",
+  "age" : "19",
+  "height" : "150",
+  "gender" : "male",
+  "hair_color" : "white"
+},{
+  "name" : "Abra Cadabra",
+  "age" : "25",
+  "height" : "186",
+  "gender" : "male",
+  "hair_color" : "brown"
+}
+]
