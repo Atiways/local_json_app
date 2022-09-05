@@ -50,12 +50,11 @@ class _HomePageState extends State<HomePage> {
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.stretch,
                         children: [
-                          Text("Name:"+mydata[index]['name']),
-                          Text("Age:"+mydata[index]['age']),
-                          Text("Height:"+mydata[index]['height']),
-                          Text("Hair Color:"+mydata[index]['hair_color']),
-                          Text("Gender:"+mydata[index]['gender']),
-
+                          Text("Name:${mydata[index]['name']}"),
+                          Text("Age:${mydata[index]['age']}"),
+                          Text("Height:${mydata[index]['height']}"),
+                          Text("Hair Color:${mydata[index]['hair_color']}"),
+                          Text("Gender:${mydata[index]['gender']}"),
                         ],
                       ),
                     );
